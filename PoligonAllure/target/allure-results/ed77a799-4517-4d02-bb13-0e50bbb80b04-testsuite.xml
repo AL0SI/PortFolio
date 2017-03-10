@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1489166649412" stop="1489166650083" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>ATest</name>
+    <title>test clas A</title>
+    <description type="text">testim class</description>
+    <test-cases>
+        <test-case start="1489166649506" stop="1489166649537" status="passed">
+            <name>metod</name>
+            <title>test metod</title>
+            <description type="text">testim metod</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="q-ПК"/>
+                <label name="thread" value="5944@q-ПК.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
