@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "q-ПК",
+    "threads" : [ {
+      "title" : "5944@q-ПК.main(1)",
+      "testCases" : [ {
+        "uid" : "a8bcba1dd4745b84",
+        "name" : "metod",
+        "title" : "test metod",
+        "time" : {
+          "start" : 1489166649506,
+          "stop" : 1489166649537,
+          "duration" : 31
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
