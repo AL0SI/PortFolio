@@ -1,0 +1,15 @@
+<repositories>
+    <repository>
+        <id>SberTeh-mvn-repo</id>
+        <url>https://raw.github.com/AL0SI/SberWalutaViget/mvn-repo/</url>
+        <snapshots>
+            <enabled>true</enabled>
+            <updatePolicy>always</updatePolicy>
+        </snapshots>
+    </repository>
+</repositories>
+<dependency>
+    <groupId>SberTeh</groupId>
+    <artifactId>SberWalutaViget</artifactId>
+    <version>1.0-SNAPSHOT</version>
+</dependency>
